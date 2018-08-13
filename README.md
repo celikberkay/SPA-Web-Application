@@ -1,2 +1,5 @@
-# SPA-Web-Application
-Single Page Application CryptoCurrency Information Platform WEB in NodeJS and MongoDB
+## WebTekno
+
+Bu web sitesi [Bitcoin Template Sitesi](https://colorlib.com/wp/template/bitcoin/) sitesinden alınmıştır.
+
+Geliştirmeler yapılacaktır.
